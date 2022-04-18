@@ -1,5 +1,3 @@
-import './AddingForm.scss'
-
 import {Button, FormControl, InputLabel, MenuItem, Paper, Select, Stack, TextField} from "@mui/material";
 import {Alert} from "@mui/lab";
 import {useEffect, useState} from "react";
